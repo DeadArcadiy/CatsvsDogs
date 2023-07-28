@@ -1,0 +1,5 @@
+test1/
+train/
+val/
+.csv
+.DS_Store
